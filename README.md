@@ -28,7 +28,7 @@ TL;DR Contribution Workflow:
 
 ## Bugs / Feedback / Suggestions
 
-We encourage you to [open up an issue][newissue]if you have any feedback, suggestions or bugs.
+We encourage you to [open up an issue][newissue] if you have any feedback, suggestions or bugs.
 
 ## License
 
