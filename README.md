@@ -37,6 +37,6 @@ MIT, see [LICENSE](/LICENSE) for full license.
 [fork]: https://help.github.com/articles/fork-a-repo/
 [forkthisrepo]: https://github.com/CodeForFoco/codeforfoco.github.io#fork-destination-box
 [contributing]: https://github.com/CodeForFoco/org/blob/master/CONTRIBUTING.md
-[githubissue]: https://github.com/CodeForFoco/TODO UPDATE URL/issues
-[newissue]: https://github.com/CodeForFoco/TODO UPDATE URL/issues/new
+[githubissue]: https://github.com/CodeForFoco/TODOUPDATEURL/issues
+[newissue]: https://github.com/CodeForFoco/TODOUPDATEURL/issues/new
 [pullrequest]: https://github.com/CodeForFoco/codeforfoco.github.io/pulls
