@@ -1,14 +1,14 @@
 # Project Template
 
-// TODO: Search this document for ALL TODOs, there are some burried in the Markdown links so be thorough.
-// TODO: Assign at least one person to own and lead the project, they are responsible for ensuring success. It is up to them how to manage and organize tasks for the project.
-// TODO: Write a detailed description of the project here.
-// TODO: Add description of project to projects section of website.
-// TODO: Create a slack channel for the project.
+- TODO: Search this document for ALL TODOs, there are some buried in the Markdown links so be thorough, when you complete a TODO delete it from the README.
+- TODO: Assign at least one person to own and lead the project, they are responsible for ensuring success. It is up to them how to manage and organize tasks for the project.
+- TODO: Write a detailed description of the project here.
+- TODO: Add description of project to projects section of website.
+- TODO: Create a slack channel for the project.
 
 ## Getting Started
 
-// TODO: Technical documentation to clone, install and run the project goes here.
+- TODO: Technical documentation to clone, install and run the project goes here.
 
 ## Contributing
 
