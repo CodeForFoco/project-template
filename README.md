@@ -5,6 +5,7 @@
 - TODO: Write a detailed description of the project here.
 - TODO: Add description of project to projects section of website.
 - TODO: Create a slack channel for the project.
+- TODO: Create a page in the [minutes Google Doc][minutes] for the project.
 
 ## Getting Started
 
@@ -42,3 +43,4 @@ MIT, see [LICENSE](/LICENSE) for full license.
 [githubissue]: https://github.com/CodeForFoco/TODOUPDATEURL/issues
 [newissue]: https://github.com/CodeForFoco/TODOUPDATEURL/issues/new
 [pullrequest]: https://github.com/CodeForFoco/TODOUPDATEURL/pulls
+[minutes]: https://drive.google.com/open?id=1_p4hHnE2XrqXCQ99CjsZOfAd5LPHR3ZQOhMUpcNuUjA
