@@ -5,6 +5,10 @@
 - TODO: Write a detailed description of the project here.
 - TODO: Add description of project to projects section of website.
 - TODO: Create a slack channel for the project.
+- TODO: Create a section in the minutes form and template:
+    1. Find someone with editing permissions (Aari, Jason, Jordan, Kevin) to the the below files 
+    1. [Google Drive minutes form][minutes-form]: duplicate another project's section and update the project name accordingly.
+    1. [Google Drive minutes template][minutes-template]: copy another project's section and update the project name accordingly (must match whatever is used in the form).
 
 ## Getting Started
 
@@ -42,3 +46,5 @@ MIT, see [LICENSE](/LICENSE) for full license.
 [githubissue]: https://github.com/CodeForFoco/TODOUPDATEURL/issues
 [newissue]: https://github.com/CodeForFoco/TODOUPDATEURL/issues/new
 [pullrequest]: https://github.com/CodeForFoco/TODOUPDATEURL/pulls
+[minutes-form]: https://docs.google.com/a/abettermap.com/forms/d/1_p4hHnE2XrqXCQ99CjsZOfAd5LPHR3ZQOhMUpcNuUjA/edit?usp=sharing
+[minutes-template]: https://docs.google.com/document/d/1WyzBVQ6rlZ-zXjBUh0mn8wW99DY0JHQPiPR3WEmIdAo/edit?usp=sharing
