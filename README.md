@@ -5,10 +5,6 @@
 - TODO: Write a detailed description of the project here.
 - TODO: Add description of project to projects section of website.
 - TODO: Create a slack channel for the project.
-- TODO: Create a section in the minutes form and template:
-    1. Find someone with editing permissions (Aari, Jason, Jordan, Kevin) to the the below files 
-    1. [Google Drive minutes form][minutes-form]: duplicate another project's section and update the project name accordingly.
-    1. [Google Drive minutes template][minutes-template]: copy another project's section and update the project name accordingly (must match whatever is used in the form).
 
 ## Getting Started
 
@@ -29,10 +25,9 @@ TL;DR Contribution Workflow:
 1. Commit your changes. Push your changes to your fork on GitHub.
 1. Submit a new [pull request][pullrequest] and your changes will be reviewed and merged.
 
+## Bugs / Feedback / Suggestions / Questions
 
-## Bugs / Feedback / Suggestions
-
-We encourage you to [open up an issue][newissue] if you have any feedback, suggestions or bugs.
+We encourage you to [open up an issue][newissue] if you have any feedback, suggestions, bugs or just have a question on where to start.
 
 ## License
 
